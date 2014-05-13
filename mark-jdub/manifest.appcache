@@ -1,0 +1,14 @@
+CACHE MANIFEST
+# markjdubmarkjub
+
+# Explicitly cached 'master entries'
+CACHE:
+html5page.html
+style.css
+script.js
+
+NETWORK:
+*
+
+FALLBACK:
+offline/offline.html
